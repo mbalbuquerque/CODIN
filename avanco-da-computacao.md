@@ -2,8 +2,8 @@
 
 ## PRINCIPAIS AVAÇOS DA COMPUTAÇÃO
 
-Na aula de hoje vivenciamos a evolução dos computaodres e o quanto eles saõ indispensáveis em nosso dia a dia, diant disso,
-nos foi solicitado uma pesquisa sobre 3 pilares da computação conteporânea
+Na aula de hoje vivenciamos a evolução dos computadores e o quanto eles saõ indispensáveis em nosso dia a dia, diant disso,
+nos foi solicitado uma pesquisa sobre 3 pilares da computação conteporânea.
 
 - IA
 - Computação Quântica
